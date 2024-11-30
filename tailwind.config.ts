@@ -15,6 +15,9 @@ const config: Config = {
     extend: {
       colors: {
         trueGray: colors.neutral,
+        'orange' : '#ffa500',
+        'white' : '#f5f7f8',
+        'black' : '#231F20'
       },
     },
     fontFamily: {
